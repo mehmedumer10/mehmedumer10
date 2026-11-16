@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Muhammad Umer Khan, machine learning engineer and full-stack developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b2030"/><stop offset="1" stop-color="#12151f"/>
+    </linearGradient>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0"/><stop offset="0.5" stop-color="#60a5fa"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0.15"/>
+    </linearGradient>
+    <filter id="sh" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="6" dy="8" stdDeviation="9" flood-color="#080a10" flood-opacity="0.9"/>
+      <feDropShadow dx="-4" dy="-4" stdDeviation="7" flood-color="#2a3148" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <g transform="translate(250 0) scale(0.78 1)">
+  <g filter="url(#sh)"><rect x="700" y="46" width="452" height="208" rx="20" fill="#1a1f2e"/></g>
+  <g stroke="#2b3350" stroke-width="1">
+    <line x1="732" y1="214" x2="1124" y2="214"/><line x1="732" y1="172" x2="1124" y2="172"/><line x1="732" y1="130" x2="1124" y2="130"/><line x1="732" y1="88" x2="1124" y2="88"/>
+  </g>
+  <path d="M732 206 C790 200 812 182 852 164 S930 150 968 122 S1056 96 1124 78" fill="none" stroke="url(#ln)" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M732 210 C800 206 830 196 872 186 S952 168 992 152 S1070 134 1124 124" fill="none" stroke="#94a3b8" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="5 7" stroke-linecap="round"/>
+  </g>
+  <g fill="#60a5fa"><circle cx="915" cy="164" r="5"/><circle cx="1005" cy="122" r="5"/><circle cx="1127" cy="78" r="6"/></g>
+  <g fill="#93c5fd" fill-opacity="0.5"><circle cx="866" cy="190" r="3"/><circle cx="952" cy="158" r="3"/><circle cx="1038" cy="120" r="3"/><circle cx="1077" cy="92" r="3"/><circle cx="979" cy="128" r="3"/><circle cx="1096" cy="104" r="3"/></g>
+  <text x="64" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#f1f5f9">Muhammad Umer Khan</text>
+  <text x="64" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#93c5fd">Machine learning engineer and full-stack developer</text>
+  <text x="64" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#94a3b8">Founder of Neurals Solutions.</text>
+  <text x="64" y="234" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#94a3b8">I build models and ship them as working products.</text>
+  <rect x="64" y="256" width="72" height="4" rx="2" fill="#60a5fa"/>
+</svg>
